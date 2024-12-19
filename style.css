@@ -204,7 +204,12 @@ video {
 }
 .play-button-icon{
   font-size: 50px;
-  color:var(--accent-color);
+  filter: brightness(0) invert(1);
+ 
+  
+  
+ 
+
 }
 .flex-container {
   flex-wrap: wrap;
@@ -398,7 +403,7 @@ video {
      
   }
   .para{
-    font-size: 15px;
+    font-size: 18px;
   }
   h6{
     font-size: 22px;
