@@ -422,6 +422,7 @@ video {
 }
 .bottom-line {
  margin:70px 150px;
+ margin-bottom: 0;
 }
 .sales{
    height:200px;
@@ -442,6 +443,7 @@ video {
   justify-content: center;
   gap:60px;
   margin:85px 50px;
+  margin-bottom: 0;
 }
 .sales h4{
   font-size:40px;
@@ -742,6 +744,7 @@ video {
 }
 .bottom-line{
    margin:70px 25px;
+   margin-bottom: 0;
 }
 .bottom-line h6{
   font-size: 16px;
@@ -821,6 +824,7 @@ video {
   
   gap:30px;
   margin: 45px 30px;
+ 
 }
 .sales{
   flex-basis: 100%;
